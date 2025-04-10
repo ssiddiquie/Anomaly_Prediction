@@ -57,7 +57,7 @@ Contributions to enhance the model's performance or extend its capabilities are 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ## Acknowledgments
 
